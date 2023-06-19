@@ -1,6 +1,3 @@
-# AI534
-# IA2 skeleton code
-
 import math as ma
 from ast import Num
 import numpy as np
